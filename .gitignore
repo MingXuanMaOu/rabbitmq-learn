@@ -1,0 +1,4 @@
+# Project exclude paths
+/rabbitmq-consumer/target/
+/rabbitmq-consumer1/target/
+/rabbitmq-producer/target/
