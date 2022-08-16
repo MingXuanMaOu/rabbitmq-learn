@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class MyListener {
 
-
+    //测试
 
     @RabbitListener(queues = "${spring.rabbitmq.queue}")
     public void myListener(String message){
